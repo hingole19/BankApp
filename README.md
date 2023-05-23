@@ -21,7 +21,7 @@ Spring Boot framework of Java.
 - Spring Data JPA
 - Spring Security
 
-##APIS
+## APIS
 - Register a new user:
     - URL : POST - /api/auth/register
     - Request Body : User registration details
